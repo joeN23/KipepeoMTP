@@ -1,0 +1,160 @@
+/* Themify Customize Styling */
+body {	
+	font-family:Open Sans;	font-weight:300;
+ 
+}
+h1 {	
+	font-family:Open Sans;	font-weight:bold;
+	font-size:80px;
+ 
+}
+h2 {	
+	font-family:Open Sans;	font-weight:600;
+
+	color: #4d4d4d; 
+}
+#headerwrap {	
+	background-color: #3b3b3b; 
+}
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	
+	background-color: rgba(59,59,59,0.82); 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo {	
+	font-family:Mystery Quest;	font-weight:normal;
+	font-size:40px;
+
+	color: #ffffff; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+#main-nav {		position:relative;
+
+	top: 3px; 
+}
+#main-nav a {	
+	font-family:Open Sans;	font-weight:300;
+	font-size:16px;
+ 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #ffffff; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #e6e6e6; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #827272; 
+}
+.post-title, .post-title a {	
+	color: #3b3b3b; 
+}
+.post-title a:hover {	
+	color: #7d98f0; 
+}
+.post-date, .post .post-date .day,.post-date .month, .post .post-date .year, .loops-wrapper.list-post .post .post-date, .single .post-content .post-date {		font-size:14px;
+	text-align:center; 
+}
+#footerwrap {	
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+@media screen and (max-width: 976px) { /* Themify Customize Styling */
+h2 {	
+	color: #4d4d4d; 
+}
+#headerwrap {	
+	background-color: #3b3b3b; 
+}
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	
+	background-color: #3b3b3b; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #ffffff; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #e6e6e6; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #827272; 
+}
+.post-title, .post-title a {	
+	color: #3b3b3b; 
+}
+.post-title a:hover {	
+	color: #7d98f0; 
+}
+#footerwrap {	
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+ }@media screen and (max-width: 480px) { /* Themify Customize Styling */
+h1 {		font-size:30px;
+ 
+}
+h2 {	
+	color: #4d4d4d; 
+}
+#headerwrap {	
+	background-color: #3b3b3b; 
+}
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	
+	background-color: #3b3b3b; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+#site-description {		font-size:20px;
+ 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #ffffff; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #e6e6e6; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #827272; 
+}
+.post-title, .post-title a {	
+	color: #3b3b3b; 
+}
+.post-title a:hover {	
+	color: #7d98f0; 
+}
+#footerwrap {	
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+ }
